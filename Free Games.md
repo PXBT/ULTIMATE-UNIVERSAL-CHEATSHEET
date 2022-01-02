@@ -1,6 +1,6 @@
 For Android: Use the APK links in androidhacks.md.
 
-#PC:#
+#PC:
 
 https://igg-games.com/ (USE ADBLOCKER, there are INAPPROPRIATE ADVERTISEMENTS)
 
