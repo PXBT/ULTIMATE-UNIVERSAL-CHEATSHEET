@@ -4,4 +4,4 @@ This program was made by me. Drag your application onto this batch file to run i
 Download: https://www.mediafire.com/file/3hwoa5u4pa13il1/run-as-no-admin-bypass-uac.bat/file
 
 ## VBS VERSION (DMA CRACK): 
-https://www.mediafire.com/file/l1fif8xnejd420i/run-as-no-admin-bypass-uac.batConverted.vbs/file
+https://www.mediafire.com/file
