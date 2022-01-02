@@ -1,6 +1,8 @@
+What is an AdBlocker?:
+
+It blocks ads in websites (in some cases even in apps)
+
 For chrome use uBlock Origin: https://github.com/gorhill/uBlock
-
-
 
 
 Android: https://rexdlbox.com/index.php?id=adguard-premium-apk-dl
