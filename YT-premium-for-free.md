@@ -6,7 +6,7 @@ Make sure to configure it properly.
 
 And this: https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
 
-For this, use this config: http://fumacrom.com/3Nz8p
+For this, use this config: https://www.mediafire.com/file/fqi16e86ct1ker2/ytenhancersettings.txt/file
 
 How to import config?:
 Download above file, then copy contents. 
