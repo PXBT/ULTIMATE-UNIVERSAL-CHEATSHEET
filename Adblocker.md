@@ -2,7 +2,7 @@
 
 It blocks ads in websites (in some cases even in apps)
 
-##For chrome use uBlock Origin:
+## For chrome use uBlock Origin:
 https://github.com/gorhill/uBlock
 
 
