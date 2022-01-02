@@ -13,3 +13,5 @@ Download above file, then copy contents. Then, click this:
 
 Scroll until you reach this, then click import:
 ![image](https://user-images.githubusercontent.com/96969853/147873071-dadcaebd-e26a-49f9-8cd4-9bb42f034e07.png)
+
+Then paste copied text and click import
