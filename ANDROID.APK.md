@@ -1,3 +1,3 @@
-techbigs.com
-rockmods.net
-apkpure.com
+https://techbigs.com
+https://rockmods.net
+https://apkpure.com
