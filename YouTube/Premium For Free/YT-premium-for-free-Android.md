@@ -5,10 +5,15 @@ Download Vanced Manager, choose apps you want, select non-root (or root if you f
 Use YouTube Vanced and Vanced Music instead of normal YouTube. The Vanced YT and Music have different logo from original logo. If in the app it says buy YT Premium, ignore it.
 ### Pros
 No ads
+
 Miniplayer
+
 Play while screen off
+
 SponsorBlock
+
 Black mode
+
 So many more
 ### Cons
 Can't download videos
