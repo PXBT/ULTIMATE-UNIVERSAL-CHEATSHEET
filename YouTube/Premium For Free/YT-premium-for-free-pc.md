@@ -1,6 +1,7 @@
 # PC (Chrome only):
 ## SponsorBlock (Optional)
 https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+
 Make sure to configure it properly.
 
 ## Enhancer for YouTube
