@@ -10,7 +10,7 @@ Miniplayer
 
 Play while screen off
 
-SponsorBlock
+[SponsorBlock](https://github.com/PXBT/ULTIMATE-UNIVERSAL-CHEATSHEET/blob/master/YouTube/SponsorBlock.md)
 
 Black mode
 
