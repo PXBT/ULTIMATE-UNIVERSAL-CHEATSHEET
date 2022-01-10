@@ -1,6 +1,6 @@
 # PC (Chrome only):
 ## SponsorBlock (Optional)
-https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+[SponsorBlock](https://github.com/PXBT/ULTIMATE-UNIVERSAL-CHEATSHEET/blob/master/YouTube/SponsorBlock.md)
 
 Make sure to configure it properly.
 
