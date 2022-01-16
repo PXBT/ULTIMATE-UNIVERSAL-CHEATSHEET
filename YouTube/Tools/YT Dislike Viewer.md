@@ -13,5 +13,7 @@ That is the reason alongside this, we are chipping away at integrating with Spon
 "Become a sponsor" button on the extension redirects you to our crowd-funding page and cannot be automatically stimulated unless clicked.
 ## Download:
 Edge: https://microsoftedge.microsoft.com/addons/detail/youtube-dislike-viewer/aiagfonjihhagfocbkapjibmglofbiph (not sure if legit extension)
+
 Chrome: https://chrome.google.com/webstore/detail/youtube-dislike-viewer/ekabjflbgeakdkhdneeakapgboleidee
+
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/yt-dislikes-viewer/
