@@ -14,7 +14,7 @@ Play while screen off
 
 Black mode
 
-[Return YouTube Dislike] integration(https://github.com/PXBT/ULTIMATE-UNIVERSAL-CHEATSHEET/blob/master/YouTube/Tools/YT%20Dislike%20Viewer%20(RYD).md)
+[Return YouTube Dislike](https://github.com/PXBT/ULTIMATE-UNIVERSAL-CHEATSHEET/blob/master/YouTube/Tools/YT%20Dislike%20Viewer%20(RYD).md) integration
 
 So many more
 ### Cons
