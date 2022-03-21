@@ -17,3 +17,4 @@ Black mode
 So many more
 ### Cons
 Can't download videos
+[Discontinued](https://www.androidpolice.com/vanced-developers-issue-statement-addressing-wild-rumors-about-the-apps-demise/)
