@@ -1,4 +1,4 @@
-# YouTube Dislike Viewer (not made by me)
+# YouTube Dislike Viewer
 ## Website:
 https://www.returnyoutubedislike.com/
 ## Description
