@@ -3,7 +3,7 @@
 ~https://igg-games.com/ (USE ADBLOCKER, there are INAPPROPRIATE ADVERTISEMENTS)~
 Do NOT use IGG Games anymore. Their files are MALICIOUS!
 
-[FitGirl Repacks](fitgirl-repacks.site) 
+[FitGirl Repacks](fitgirl-repacks.site). Repacks, very useful even for people with slow internet speeds. Highly compressed, use setup.exe to extract and install the games automatically.
 
 ## For steam apps: 
 https://steamunlocked.net/ (USE ADBLOCKER, there are INAPPROPRIATE ADVERTISEMENTS)
